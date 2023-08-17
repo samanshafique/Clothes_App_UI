@@ -23,6 +23,7 @@ SizeList(),
 AddCart(clothes),
           ],
         ),
+        
       ),
     );
   }
